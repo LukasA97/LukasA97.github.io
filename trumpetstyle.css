@@ -1,0 +1,28 @@
+body{
+    background-color: lightgrey;
+    text-align: center;
+  }
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+    color: gray;
+  }
+  ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+    color: gray;
+    
+  }
+  
+  .redH3{
+    color:indianred;
+    font-style: deleted;
+  }
+  a {
+    color: lightseagreen;
+  }
+  img {
+      border: hidden;
+      border-radius: 0 30px 0 30px;
+      filter: grayscale(50%);
+  }

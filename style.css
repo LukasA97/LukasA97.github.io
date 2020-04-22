@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(lightSteelBlue, lightgrey);
+    text-align: center;
+    
+  }
+  a {
+    color:lightseagreen;
+  }
+  p {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+    color: gray;
+    border: solid beige 3px;
+    border-radius: 5px;
+    margin: 0 350px 0 350px;
+    padding: 2px;
+    
+  }
+  h1 {
+    color: indianred;
+  }
+  .intro {
+      color: lightcyan;
+      margin: 10px 400px 10px 400px;      
+  }
+  .stry{
+    padding: 20px;
+    margin: 10px 450px 10px 450px;
+  }
+  .follow {
+    font-weight: bolder;
+    margin: 19px 550px 10px 550px;
+  }
+  .sgll {
+      margin: 10px 520px 10px 520px;
+  }
+  img {
+    filter: opacity(50%);
+  }
+  .cat{
+    margin: 10px 0 0 10px;
+    width: 192px;
+    height: 108px;
+    filter: brightness(110%) contrast(150%) saturate(80%) grayscale(50%);
+    border-radius: 10px;
+  }
